@@ -1,7 +1,3 @@
-## Detailed Markdown Documentation for California Housing Notebook
-
----
-
 ### 1. **Imports and Setup**
 
 This imports essential libraries:
